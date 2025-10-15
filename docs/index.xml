@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasión Futbolera on My New Hugo Site</title>
+    <link>http://192.168.1.137:1313/</link>
+    <description>Recent content in Pasión Futbolera on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.1.137:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consejos para Jugadores de Fútbol</title>
+      <link>http://192.168.1.137:1313/consejos/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/consejos/</guid>
+      <description>&lt;h1 id=&#34;consejos-para-jugadores-de-fútbol&#34;&gt;Consejos para Jugadores de Fútbol&lt;/h1&gt;&#xA;&lt;p&gt;Si quieres mejorar en el fútbol, aquí tienes algunos consejos prácticos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tips-para-mejorar&#34;&gt;Tips para mejorar&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Entrena regularmente para mejorar la resistencia.&lt;/li&gt;&#xA;&lt;li&gt;Practica el control del balón diariamente.&lt;/li&gt;&#xA;&lt;li&gt;Trabaja en la comunicación con tus compañeros.&lt;/li&gt;&#xA;&lt;li&gt;Mantén una dieta saludable y balanceada.&lt;/li&gt;&#xA;&lt;li&gt;Mira partidos para aprender tácticas y estrategias.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Consulta más consejos en &lt;a href=&#34;https://www.futbolred.com/&#34;&gt;FutbolRed&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?auto=format&amp;amp;fit=crop&amp;amp;w=800&amp;amp;q=80&#34; alt=&#34;Entrenamiento de fútbol&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Historia del Fútbol</title>
+      <link>http://192.168.1.137:1313/historia/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.137:1313/historia/</guid>
+      <description>&lt;h1 id=&#34;historia-del-fútbol&#34;&gt;Historia del Fútbol&lt;/h1&gt;&#xA;&lt;p&gt;El fútbol tiene una rica historia que se remonta a siglos atrás.&lt;/p&gt;&#xA;&lt;h2 id=&#34;datos-importantes&#34;&gt;Datos importantes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;El fútbol moderno nació en Inglaterra en el siglo XIX.&lt;/li&gt;&#xA;&lt;li&gt;La primera Copa del Mundo se celebró en 1930.&lt;/li&gt;&#xA;&lt;li&gt;Grandes leyendas como Pelé, Maradona y Messi han marcado la historia.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Para saber más, visita la &lt;a href=&#34;https://es.wikipedia.org/wiki/F%C3%BAtbol&#34;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&amp;amp;fit=crop&amp;amp;w=800&amp;amp;q=80&#34; alt=&#34;Partido clásico&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

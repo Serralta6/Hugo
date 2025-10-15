@@ -1,0 +1,9 @@
+baseURL = "https://Serralta6.github.io/futbol/"
+languageCode = "es"
+title = "My New Hugo Site"
+theme = "ananke"
+
+publishDir = "docs"
+
+[params]
+description = "web estatica futbol"
